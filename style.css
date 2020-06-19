@@ -1,0 +1,41 @@
+body{
+    margin: 0;
+}
+
+#header{
+    text-align: center;
+    background-color: black;
+    color: blanchedalmond;
+    position: fixed;
+    top: 0;
+    width: 100%;
+}
+
+h1{
+    font-size: 2em;
+    color: khaki;
+}
+
+p{
+    font-size: 1.2em;
+}
+
+span{
+    font-size: 1.2em;
+    display: block;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    color: cornsilk;
+}
+
+button{
+    font-size: 1.2em;
+    height: 2em;
+    width: 5em;
+    border: 3px solid grey;
+    position: absolute;
+    top: 50%;
+    left: 46%;    
+}
